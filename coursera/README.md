@@ -1,1 +1,1 @@
-This folder contains my Coursera IBM Data Science certificate learning notebooks.
+This folder contains my Coursera learning notebooks.
