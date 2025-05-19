@@ -1,1 +1,2 @@
-This folder contains my Coursera IBM data science certificate learning notebooks.
+# IBM-DataScience-ProfessionalCertificate
+This repository contains important projects done following the coursera IBM Data Science course.
